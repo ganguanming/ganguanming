@@ -22,7 +22,7 @@ Pursuing backend development and data science roles, focusing on scalable system
 
 ## Let’s Connect
 
-- **LinkedIn:** [YOUR LINKEDIN URL  ](https://www.linkedin.com/in/gan-guan-ming-87054a276/)
+- **LinkedIn:** (https://www.linkedin.com/in/gan-guan-ming-87054a276/)
 - **Email:** ganguanming420@gmail.com
 - **Location:** Malaysia 
 
