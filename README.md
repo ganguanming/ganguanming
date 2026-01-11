@@ -30,8 +30,10 @@ Pursuing backend development and data science roles, focusing on scalable system
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
