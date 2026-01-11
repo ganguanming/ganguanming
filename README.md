@@ -1,13 +1,13 @@
 # About Me 👋
 
-I’m **YOUR NAME**, a **Computer Science student** focused on **Data Science** and applied **Machine Learning (ML)** projects.  
+I’m Guan Ming, a **Computer Science student** focused on **Data Science** and applied **Machine Learning (ML)** projects.  
 I enjoy turning messy real-world data into **clean, explainable models** and documenting insights as I learn.
 
 ---
 
 ## Technical Skills
 
-- **Languages:** Python, SQL, JavaScript  
+- **Languages:** Python, SQL, HTML, CSS
 - **Data / ML:** Pandas, NumPy, scikit-learn, Matplotlib  
 - **Workflow:** Git, GitHub, Jupyter Notebook  
 - **Other:** Data Cleaning, Feature Engineering, Model Evaluation
@@ -21,14 +21,11 @@ I enjoy turning messy real-world data into **clean, explainable models** and doc
 - Focus on explainability, avoiding leakage, and season-level validation  
 - Repo: **LINK TO YOUR REPO**
 
-### (Optional) Add 1–2 more projects
-- Short bullet points: what you did + what you learned + link
-
 ---
 
 ## Career Goals
 
-I’m working towards roles in **Data Analytics** / **Data Science**, with a strong interest in:
+I’m working towards roles in **Data Analytics** / **Data Science** and **Backend Developer**, with a strong interest in:
 - explainable modeling
 - evaluation strategy
 - real-world data pipelines
