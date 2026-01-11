@@ -1,6 +1,6 @@
 # About Me 👋
 
-A **Computer Science graduate** focused on **Data Science** and ** Backend Development**. 
+A **Computer Science graduate** focused on **Data Science** and **Backend Development**. 
 I enjoy turning messy real-world data into **clean, explainable models** and documenting insights as I learn. As well as developing real-world systems.
 
 ---
@@ -22,7 +22,7 @@ Pursuing backend development and data science roles, focusing on scalable system
 
 ## Let’s Connect
 
-- **LinkedIn:** YOUR LINKEDIN URL  
+- **LinkedIn:** [YOUR LINKEDIN URL  ](https://www.linkedin.com/in/gan-guan-ming-87054a276/)
 - **Email:** ganguanming420@gmail.com
 - **Location:** Malaysia 
 
