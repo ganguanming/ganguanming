@@ -1,7 +1,7 @@
 # About Me 👋
 
-I’m Guan Ming, a **Computer Science student** focused on **Data Science** and applied **Machine Learning (ML)** projects.  
-I enjoy turning messy real-world data into **clean, explainable models** and documenting insights as I learn.
+A **Computer Science graduate** focused on **Data Science** and ** Backend Development**. 
+I enjoy turning messy real-world data into **clean, explainable models** and documenting insights as I learn. As well as developing real-world systems.
 
 ---
 
@@ -14,29 +14,17 @@ I enjoy turning messy real-world data into **clean, explainable models** and doc
 
 ---
 
-## Featured Projects
-
-### 🏀 NBA MVP Prediction via Player Contribution Modeling
-- Models historical MVP voting patterns using performance + context features  
-- Focus on explainability, avoiding leakage, and season-level validation  
-- Repo: **LINK TO YOUR REPO**
-
----
-
 ## Career Goals
 
-I’m working towards roles in **Data Analytics** / **Data Science** and **Backend Developer**, with a strong interest in:
-- explainable modeling
-- evaluation strategy
-- real-world data pipelines
+Pursuing backend development and data science roles, focusing on scalable systems and producing data-driven real world solutions.
 
 ---
 
 ## Let’s Connect
 
 - **LinkedIn:** YOUR LINKEDIN URL  
-- **Email:** YOUR EMAIL (optional)  
-- **Location:** Malaysia (optional)
+- **Email:** ganguanming420@gmail.com
+- **Location:** Malaysia 
 
 ---
 
